@@ -1,18 +1,19 @@
 .navbar{
     border: solid 2px;
-    background-color: blue;
+    background-color: black;
     color: white;
 }
 .body{
     border: solid 3px;
-    background-color: yellow;
+    background-color:white;
     color: black;
 
 
 }
-.paragraph{
-    color: brown;
-}
 #body{
     background-image: url('glory.jpeg');
+    background-repeat: repeat-x;
+}
+.paragraph{
+    color: black;
 }
