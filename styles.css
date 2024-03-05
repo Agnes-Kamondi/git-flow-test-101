@@ -5,15 +5,29 @@
 }
 .body{
     border: solid 3px;
-    background-color:white;
+    background-color:rgb(159, 219, 20);
     color: black;
 
 
 }
-#body{
-    background-image: url('glory.jpeg');
-    background-repeat: repeat-x;
-}
+
 .paragraph{
     color: black;
+    background-image: url('glory.jpeg');
+    background-repeat: repeat-x;
+    border-radius: 16px;
+    height: 450px;
 }
+button{
+
+    border-radius: 20px;
+    background-color: aliceblue;
+    color: aliceblue;
+    text-align:center;
+    padding: 20px;
+    width: 10%;
+    margin-top: 80px;
+    margin-left: 1500px;
+
+}
+
